@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header {
+	margin: 0px 250px;
+	padding: 10px;
+	text-align: left;
+	background: #145787;
+	color: white;
+	font-size: 40px;
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	border-radius: 0px;
+}
+body{
+	background: url(../img/fondo2.jpg);
+
+}
+
+}
+footer{
+	background-color: #145787;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+    height: 40px;
+	border-radius: 0px;
+	text-align: center;
+  }
+footer a{
+	color: white;
+	font-size: 25px;
+	margin: 15px 50px;
+	font-family: 'Gill Sans';
+	font-weight: bold;
+  }
+  section{
+	background-color: #145787;
+	width: 45%;
+	margin-top: 10px;
+	margin-left: 250px;
+	font-size: 30px;
+	color: white;
+	text-align: center;  
+	border-radius: 0px;
+	float: left;
+}
+article{
+	  background-color: cyan;
+	  margin: 19px 50px;
+	  font-size: 15px;
+	  color: black;
+	  text-align: center;  
+	  border-radius: 0px;
+}
+aside{
+	background-color: #145787;
+	color: white;
+	width: 20%;
+	margin-top: 10px;
+	margin-left: 15px;
+	text-align: center;  
+	float: left;
+	border-radius: 0px;
+}
